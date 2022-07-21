@@ -17,4 +17,10 @@ public class factorial {
         }
         return;
     }
+
+    public static void main(String[] args) {
+        factorial Factorial= new factorial();
+        Factorial.factWrite();
+        return;
+    }
 }

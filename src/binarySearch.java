@@ -38,4 +38,14 @@ public class binarySearch {
         System.out.println("No element "+ x + "in array");
         return;
     }
+
+    public static void main(String[] args) {
+
+
+
+         binarySearch BinarySearch = new binarySearch();
+         BinarySearch.bSearch();
+
+        return;
+    }
 }

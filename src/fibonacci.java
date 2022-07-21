@@ -39,4 +39,13 @@ public class fibonacci {
         return;
     }
 
+    public static void main(String[] args) {
+
+
+
+       fibonacci Fibonacci = new fibonacci();
+        Fibonacci.fibonacciWrite();
+
+        return;
+    }
 }
